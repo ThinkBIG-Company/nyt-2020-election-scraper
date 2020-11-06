@@ -145,7 +145,6 @@
 
         setInterval(() => {
             $(".pretty-timestamp").map((_, tselem) => {
-				console.log(tselem);
 				if(tselem.data-original-title.lenght > 0) {
 					tselem.innerText = prettyTime(tselem.data-original-title);
 				} else {
@@ -170,7 +169,7 @@
     </div>
     <div class="row">
         <div class="col-sm">
-            <p class="float-left" id="timestamps">Last scrape: <span class="timestamp">2020-11-06 20:04:50 UTC</span> | Last batch: <span class="timestamp">2020-11-06 19:58:27 UTC</span></p>
+            <p class="float-left" id="timestamps">Last scrape: <span class="timestamp">2020-11-06 20:09:36 UTC</span> | Last batch: <span class="timestamp">2020-11-06 20:08:18 UTC</span></p>
             <div id="template-hash" style="display: none;">fad4f7d4c31ba57bb2fce8e25851ffcca08f10715861ef59c0eabef1b86b4b55</div>
         </div>
         <div class="col-sm">
@@ -948,7 +947,7 @@
                     <span class="statename">Georgia (EV: 16)</span>
                 </span>
                 <br>
-                Total Votes: Biden leads with 2,450,381 votes, Trump trails with 2,448,779 votes.
+                Total Votes: Biden leads with 2,450,385 votes, Trump trails with 2,448,782 votes.
             </td>
         </tr>
         <tr>
@@ -962,6 +961,26 @@
             <th class="has-tip" data-toggle="tooltip" title="What percentage of the remaining votes does the trailing candidate need to flip the lead. 'Flip' happens at 50%, not at 0%.">Hurdle</th>
         </tr>
         </thead>
+    
+
+        <tr id='georgia-2020-11-06T20:08:18.087000'>
+            <td class="timestamp">2020-11-06 20:08:18 UTC</td>
+            <td class="Biden">Biden</td>
+            <td>1,603</td>
+            <td>4,169</td>
+            <td>      7</td>
+    
+            <td>
+                Biden 57.1% /
+                42.9% Trump
+            </td>
+        
+            <td>
+                Trump is averaging 31.4%
+            </td>
+        
+            <td>Trump needs 68.60% [0.044%]</td>
+        </tr>
     
 
         <tr id='georgia-2020-11-06T19:58:27.451000'>
