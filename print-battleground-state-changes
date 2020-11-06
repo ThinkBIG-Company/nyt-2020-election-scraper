@@ -218,11 +218,12 @@ def html_write_state_head(state: str, state_slug: str, summary: IterationSummary
 def html_summary(state_slug: str, summary: IterationSummary):
     
     leading_candidate_vote_percent = round((summary.leading_candidate_votes / (summary.leading_candidate_votes + summary.trailing_candidate_votes)) * 100, 2)
+    trailing_candidate_vote_percent = round((summary.trailing_candidate_votes / (summary.leading_candidate_votes + summary.trailing_candidate_votes)) * 100, 2)
 
     html = f'''
         <tr id='{state_slug}-{summary.timestamp.isoformat()}'>
             <td class="timestamp">{summary.timestamp.strftime('%Y-%m-%d %H:%M:%S')} UTC</td>
-            <td class="{summary.leading_candidate_name}">{summary.leading_candidate_name} with {'{:.2f}%'.format(leading_candidate_vote_percent)}</td>
+            <td class="{summary.leading_candidate_name}">{summary.leading_candidate_name} with {'{:.2f}%'.format(leading_candidate_vote_percent)} vs {summary.trailing_candidate_name} {'{:.2f}%'.format(trailing_candidate_vote_percent)}</td>
             <td>{summary.vote_differential:,}</td>
             <td>{summary.votes_remaining:,}</td>
             <td>{summary.new_votes:7,}</td>
