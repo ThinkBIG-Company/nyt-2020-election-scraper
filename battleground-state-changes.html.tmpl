@@ -143,9 +143,9 @@
 
         setInterval(() => {
             $(".pretty-timestamp").map((_, tselem) => {
-				console.log($(tselem));
-				if($(tselem).data('original-title').lenght > 0) {
-					tselem.innerText = prettyTime($(tselem).data('original-title'));
+				console.log($(tselem).attr('data-original-title'));
+				if($(tselem).attr('data-original-title').lenght > 0) {
+					tselem.innerText = prettyTime($(tselem).attr('data-original-title'));
 				} else {
 					tselem.innerText = prettyTime(tselem.title);
 				}
