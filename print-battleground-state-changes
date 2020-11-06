@@ -370,7 +370,7 @@ batch_time = max(itertools.chain.from_iterable(summarized.values()), key=lambda 
 print(tabulate([
     ["Last updated:", scrape_time.strftime("%Y-%m-%d %H:%M UTC")],
     ["Latest batch received:", batch_time.strftime("%Y-%m-%d %H:%M UTC")],
-    ["Prettier web version:", "https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html"],
+    ["Prettier web version:", "https://thinkbig-company.github.io/nyt-2020-election-scraper/battleground-state-changes.html"],
 ]))
 # The NYTimes array of states is not sorted alphabetically, so we'll use `sorted`
 for (state, timestamped_results) in sorted(summarized.items()):
