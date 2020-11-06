@@ -119,7 +119,7 @@
                     timestamp = node.innerHTML;
                     node.setAttribute('data-timestamp', timestamp);
                 }
-                node.innerHTML = `<abbr class='pretty-timestamp' data-toggle='tooltip' title='${timestamp}'>${prettyTime(timestamp)}</abbr>`;
+                node.innerHTML = `<abbr class='pretty-timestamp' data-toggle='tooltip' title='${timestamp}' time='${timestamp}'>${prettyTime(timestamp)}</abbr>`;
             }
         };
 
@@ -143,12 +143,8 @@
 
         setInterval(() => {
             $(".pretty-timestamp").map((_, tselem) => {
-				console.log($(tselem).attr('data-original-title'));
-				if($(tselem).attr('data-original-title').lenght > 0) {
-					tselem.innerText = prettyTime($(tselem).attr('data-original-title'));
-				} else {
-					tselem.innerText = prettyTime(tselem.title);
-				}
+				console.log($(tselem).attr('time'));
+				tselem.innerText = prettyTime($(tselem).attr('time'));
             });
         }, 60 * 1000);
     </script>
