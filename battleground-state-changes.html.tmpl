@@ -143,8 +143,8 @@
 
         setInterval(() => {
             $(".pretty-timestamp").map((_, tselem) => {
-				if(tselem.data-original-title.lenght > 0) {
-					tselem.innerText = prettyTime(tselem.data-original-title);
+				if($(tselem).data('original-title').lenght > 0) {
+					tselem.innerText = prettyTime($(tselem).data('original-title'));
 				} else {
 					tselem.innerText = prettyTime(tselem.title);
 				}
