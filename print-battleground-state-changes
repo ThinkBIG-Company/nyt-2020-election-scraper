@@ -222,7 +222,7 @@ def html_summary(state_slug: str, summary: IterationSummary):
     html = f'''
         <tr id='{state_slug}-{summary.timestamp.isoformat()}'>
             <td class="timestamp">{summary.timestamp.strftime('%Y-%m-%d %H:%M:%S')} UTC</td>
-            <td class="{summary.leading_candidate_name}">{summary.leading_candidate_name} total {leading_candidate_vote_percent}%</td>
+            <td class="{summary.leading_candidate_name}">{summary.leading_candidate_name} with {leading_candidate_vote_percent}%</td>
             <td>{summary.vote_differential:,}</td>
             <td>{summary.votes_remaining:,}</td>
             <td>{summary.new_votes:7,}</td>
