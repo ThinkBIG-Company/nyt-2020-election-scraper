@@ -201,7 +201,7 @@ def html_write_state_head(state: str, state_slug: str, summary: IterationSummary
                 <br>
                 Total Votes: <strong>{total_votes:,}</strong> {summary.leading_candidate_name} leads with {summary.leading_candidate_votes:,} votes <strong>{'{:.2f}%'.format(leading_candidate_vote_percent)}</strong>, {summary.trailing_candidate_name} trails with {summary.trailing_candidate_votes:,} votes <strong>{'{:.2f}%'.format(trailing_candidate_vote_percent)}</strong>.
                 <br>
-                <strong>Difference: {summary.vote_differential:,}</strong>
+                <strong>Difference: {summary.vote_differential:,} votes</strong>
             </td>
         </tr>
         <tr>
