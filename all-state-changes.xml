@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ <channel>
+  <title>NYT 2020 Election Scraper RSS Feed</title>
+  <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
+  <description>Latest results from battleground states.</description>
+  <lastBuildDate>Sat, 14 Nov 2020 05:13:23 -0000</lastBuildDate>
+  <item>
+   <description>Alaska (EV: 3): Trump +36043</description>
+   <pubDate>Sat, 14 Nov 2020 02:45:23 -0000</pubDate>
+   <guid isPermaLink="false">alaska@1605321923.181</guid>
+  </item>
+  <item>
+   <description>Alabama (EV: 9): Trump +590686</description>
+   <pubDate>Wed, 11 Nov 2020 03:23:42 -0000</pubDate>
+   <guid isPermaLink="false">alabama@1605065022.27</guid>
+  </item>
+  <item>
+   <description>Arkansas (EV: 6): Trump +338925</description>
+   <pubDate>Sat, 14 Nov 2020 00:30:24 -0000</pubDate>
+   <guid isPermaLink="false">arkansas@1605313824.485</guid>
+  </item>
+  <item>
+   <description>Arizona (EV: 11): Biden +10016</description>
+   <pubDate>Sat, 14 Nov 2020 01:21:23 -0000</pubDate>
+   <guid isPermaLink="false">arizona@1605316883.582</guid>
+  </item>
+  <item>
+   <description>California (EV: 55): Biden +4921826</description>
+   <pubDate>Sat, 14 Nov 2020 02:43:45 -0000</pubDate>
+   <guid isPermaLink="false">california@1605321825.388</guid>
+  </item>
+  <item>
+   <description>Colorado (EV: 9): Biden +439868</description>
+   <pubDate>Sat, 14 Nov 2020 01:37:03 -0000</pubDate>
+   <guid isPermaLink="false">colorado@1605317823.058</guid>
+  </item>
+  <item>
+   <description>Connecticut (EV: 7): Biden +364989</description>
+   <pubDate>Fri, 13 Nov 2020 20:33:38 -0000</pubDate>
+   <guid isPermaLink="false">connecticut@1605299618.783</guid>
+  </item>
+  <item>
+   <description>District of Columbia (EV: 3): Biden +269422</description>
+   <pubDate>Wed, 11 Nov 2020 03:30:44 -0000</pubDate>
+   <guid isPermaLink="false">district-of-columbia@1605065444.356</guid>
+  </item>
+  <item>
+   <description>Delaware (EV: 3): Biden +95665</description>
+   <pubDate>Wed, 11 Nov 2020 22:51:34 -0000</pubDate>
+   <guid isPermaLink="false">delaware@1605135094.682</guid>
+  </item>
+  <item>
+   <description>Florida (EV: 29): Trump +372707</description>
+   <pubDate>Wed, 11 Nov 2020 22:51:34 -0000</pubDate>
+   <guid isPermaLink="false">florida@1605135094.682</guid>
+  </item>
+  <item>
+   <description>Georgia (EV: 16): Biden +14172</description>
+   <pubDate>Fri, 13 Nov 2020 20:43:56 -0000</pubDate>
+   <guid isPermaLink="false">georgia@1605300236.716</guid>
+  </item>
+  <item>
+   <description>Hawaii (EV: 4): Biden +169270</description>
+   <pubDate>Fri, 13 Nov 2020 01:51:08 -0000</pubDate>
+   <guid isPermaLink="false">hawaii@1605232268.708</guid>
+  </item>
+  <item>
+   <description>Iowa (EV: 6): Trump +138733</description>
+   <pubDate>Thu, 12 Nov 2020 20:25:22 -0000</pubDate>
+   <guid isPermaLink="false">iowa@1605212722.958</guid>
+  </item>
+  <item>
+   <description>Idaho (EV: 4): Trump +267097</description>
+   <pubDate>Fri, 13 Nov 2020 16:01:50 -0000</pubDate>
+   <guid isPermaLink="false">idaho@1605283310.246</guid>
+  </item>
+  <item>
+   <description>Illinois (EV: 20): Biden +977577</description>
+   <pubDate>Sat, 14 Nov 2020 03:24:46 -0000</pubDate>
+   <guid isPermaLink="false">illinois@1605324286.705</guid>
+  </item>
+  <item>
+   <description>Indiana (EV: 11): Trump +487605</description>
+   <pubDate>Sat, 14 Nov 2020 00:30:24 -0000</pubDate>
+   <guid isPermaLink="false">indiana@1605313824.485</guid>
+  </item>
+  <item>
+   <description>Kansas (EV: 6): Trump +202171</description>
+   <pubDate>Wed, 11 Nov 2020 22:51:34 -0000</pubDate>
+   <guid isPermaLink="false">kansas@1605135094.682</guid>
+  </item>
+  <item>
+   <description>Kentucky (EV: 8): Trump +554124</description>
+   <pubDate>Wed, 11 Nov 2020 22:51:34 -0000</pubDate>
+   <guid isPermaLink="false">kentucky@1605135094.682</guid>
+  </item>
+  <item>
+   <description>Louisiana (EV: 8): Trump +399742</description>
+   <pubDate>Wed, 11 Nov 2020 03:23:42 -0000</pubDate>
+   <guid isPermaLink="false">louisiana@1605065022.27</guid>
+  </item>
+  <item>
+   <description>Massachusetts (EV: 11): Biden +1140734</description>
+   <pubDate>Fri, 13 Nov 2020 20:33:38 -0000</pubDate>
+   <guid isPermaLink="false">massachusetts@1605299618.783</guid>
+  </item>
+  <item>
+   <description>Maryland (EV: 10): Biden +920664</description>
+   <pubDate>Sat, 14 Nov 2020 03:24:46 -0000</pubDate>
+   <guid isPermaLink="false">maryland@1605324286.705</guid>
+  </item>
+  <item>
+   <description>Maine (EV: 4): Biden +78408</description>
+   <pubDate>Tue, 10 Nov 2020 19:29:47 -0000</pubDate>
+   <guid isPermaLink="false">maine@1605036587.853</guid>
+  </item>
+  <item>
+   <description>Michigan (EV: 16): Biden +147399</description>
+   <pubDate>Fri, 13 Nov 2020 22:32:04 -0000</pubDate>
+   <guid isPermaLink="false">michigan@1605306724.823</guid>
+  </item>
+  <item>
+   <description>Minnesota (EV: 10): Biden +233394</description>
+   <pubDate>Thu, 12 Nov 2020 16:34:03 -0000</pubDate>
+   <guid isPermaLink="false">minnesota@1605198843.066</guid>
+  </item>
+  <item>
+   <description>Missouri (EV: 10): Trump +468997</description>
+   <pubDate>Wed, 11 Nov 2020 22:51:34 -0000</pubDate>
+   <guid isPermaLink="false">missouri@1605135094.682</guid>
+  </item>
+  <item>
+   <description>Mississippi (EV: 6): Trump +232837</description>
+   <pubDate>Sat, 14 Nov 2020 03:24:46 -0000</pubDate>
+   <guid isPermaLink="false">mississippi@1605324286.705</guid>
+  </item>
+  <item>
+   <description>Montana (EV: 3): Trump +98807</description>
+   <pubDate>Thu, 12 Nov 2020 14:25:04 -0000</pubDate>
+   <guid isPermaLink="false">montana@1605191104.354</guid>
+  </item>
+  <item>
+   <description>North Carolina (EV: 15): Trump +73698</description>
+   <pubDate>Fri, 13 Nov 2020 20:09:56 -0000</pubDate>
+   <guid isPermaLink="false">north-carolina@1605298196.79</guid>
+  </item>
+  <item>
+   <description>North Dakota (EV: 3): Trump +120684</description>
+   <pubDate>Thu, 12 Nov 2020 20:58:04 -0000</pubDate>
+   <guid isPermaLink="false">north-dakota@1605214684.989</guid>
+  </item>
+  <item>
+   <description>Nebraska (EV: 5): Trump +182505</description>
+   <pubDate>Sat, 14 Nov 2020 00:30:24 -0000</pubDate>
+   <guid isPermaLink="false">nebraska@1605313824.485</guid>
+  </item>
+  <item>
+   <description>New Hampshire (EV: 4): Biden +59277</description>
+   <pubDate>Tue, 10 Nov 2020 20:17:01 -0000</pubDate>
+   <guid isPermaLink="false">new-hampshire@1605039421.511</guid>
+  </item>
+  <item>
+   <description>New Jersey (EV: 14): Biden +656719</description>
+   <pubDate>Fri, 13 Nov 2020 23:11:42 -0000</pubDate>
+   <guid isPermaLink="false">new-jersey@1605309102.302</guid>
+  </item>
+  <item>
+   <description>New Mexico (EV: 5): Biden +98345</description>
+   <pubDate>Sat, 14 Nov 2020 02:08:43 -0000</pubDate>
+   <guid isPermaLink="false">new-mexico@1605319723.389</guid>
+  </item>
+  <item>
+   <description>Nevada (EV: 6): Biden +34547</description>
+   <pubDate>Sat, 14 Nov 2020 05:13:23 -0000</pubDate>
+   <guid isPermaLink="false">nevada@1605330803.36</guid>
+  </item>
+  <item>
+   <description>New York (EV: 29): Biden +886520</description>
+   <pubDate>Fri, 13 Nov 2020 21:31:43 -0000</pubDate>
+   <guid isPermaLink="false">new-york@1605303103.658</guid>
+  </item>
+  <item>
+   <description>Ohio (EV: 18): Trump +470723</description>
+   <pubDate>Wed, 11 Nov 2020 22:51:34 -0000</pubDate>
+   <guid isPermaLink="false">ohio@1605135094.682</guid>
+  </item>
+  <item>
+   <description>Oklahoma (EV: 7): Trump +516390</description>
+   <pubDate>Wed, 11 Nov 2020 23:14:54 -0000</pubDate>
+   <guid isPermaLink="false">oklahoma@1605136494.799</guid>
+  </item>
+  <item>
+   <description>Oregon (EV: 7): Biden +381144</description>
+   <pubDate>Sat, 14 Nov 2020 02:08:43 -0000</pubDate>
+   <guid isPermaLink="false">oregon@1605319723.389</guid>
+  </item>
+  <item>
+   <description>Pennsylvania (EV: 20): Biden +63005</description>
+   <pubDate>Sat, 14 Nov 2020 02:08:43 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1605319723.389</guid>
+  </item>
+  <item>
+   <description>Rhode Island (EV: 4): Biden +106362</description>
+   <pubDate>Fri, 13 Nov 2020 21:55:43 -0000</pubDate>
+   <guid isPermaLink="false">rhode-island@1605304543.627</guid>
+  </item>
+  <item>
+   <description>South Carolina (EV: 9): Trump +293562</description>
+   <pubDate>Thu, 12 Nov 2020 15:36:23 -0000</pubDate>
+   <guid isPermaLink="false">south-carolina@1605195383.904</guid>
+  </item>
+  <item>
+   <description>South Dakota (EV: 3): Trump +110572</description>
+   <pubDate>Thu, 12 Nov 2020 03:12:23 -0000</pubDate>
+   <guid isPermaLink="false">south-dakota@1605150743.995</guid>
+  </item>
+  <item>
+   <description>Tennessee (EV: 11): Trump +710444</description>
+   <pubDate>Wed, 11 Nov 2020 22:51:34 -0000</pubDate>
+   <guid isPermaLink="false">tennessee@1605135094.682</guid>
+  </item>
+  <item>
+   <description>Texas (EV: 38): Trump +647076</description>
+   <pubDate>Wed, 11 Nov 2020 22:51:34 -0000</pubDate>
+   <guid isPermaLink="false">texas@1605135094.682</guid>
+  </item>
+  <item>
+   <description>Utah (EV: 6): Trump +292187</description>
+   <pubDate>Sat, 14 Nov 2020 00:30:24 -0000</pubDate>
+   <guid isPermaLink="false">utah@1605313824.485</guid>
+  </item>
+  <item>
+   <description>Virginia (EV: 13): Biden +450609</description>
+   <pubDate>Thu, 12 Nov 2020 23:37:04 -0000</pubDate>
+   <guid isPermaLink="false">virginia@1605224224.206</guid>
+  </item>
+  <item>
+   <description>Vermont (EV: 3): Biden +130250</description>
+   <pubDate>Thu, 12 Nov 2020 19:30:03 -0000</pubDate>
+   <guid isPermaLink="false">vermont@1605209403.79</guid>
+  </item>
+  <item>
+   <description>Washington (EV: 12): Biden +784239</description>
+   <pubDate>Sat, 14 Nov 2020 01:49:23 -0000</pubDate>
+   <guid isPermaLink="false">washington@1605318563.457</guid>
+  </item>
+  <item>
+   <description>Wisconsin (EV: 10): Biden +20546</description>
+   <pubDate>Thu, 12 Nov 2020 02:35:43 -0000</pubDate>
+   <guid isPermaLink="false">wisconsin@1605148543.333</guid>
+  </item>
+  <item>
+   <description>West Virginia (EV: 5): Trump +308473</description>
+   <pubDate>Fri, 13 Nov 2020 16:28:30 -0000</pubDate>
+   <guid isPermaLink="false">west-virginia@1605284910.766</guid>
+  </item>
+  <item>
+   <description>Wyoming (EV: 3): Trump +120068</description>
+   <pubDate>Wed, 11 Nov 2020 22:19:53 -0000</pubDate>
+   <guid isPermaLink="false">wyoming@1605133193.904</guid>
+  </item>
+
+ </channel>
+</rss>

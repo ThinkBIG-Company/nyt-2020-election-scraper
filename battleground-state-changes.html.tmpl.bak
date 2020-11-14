@@ -137,9 +137,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.9.5/dayjs.min.js" integrity="sha512-C2m821NxMpJ4Df47O4P/17VPqt0yiK10UmGl59/e5ynRRYiCSBvy0KHJjhp2XIjUJreuR+y3SIhVyiVilhCmcQ==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.9.5/plugin/utc.min.js" integrity="sha512-aU7mUs3uE+MWJv+ihaotHKxd2z1kdCV4EhMlfXKSLVZ0GUJRmH/6EWAHzLSqNeL90lxGWbQczw7qyxLTfDwGbg==" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.9.5/plugin/relativeTime.min.js" integrity="sha512-ZpD5q39qjKdG3a3p8cttXCwl9C7InezFKiIVFaxmethhYdzvYTMxJuqqg3I0WmI5D7G4Qt0HiYfXjagboH8/jQ==" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.9.6/plugin/advancedFormat.min.js" integrity="sha512-Ns942wI9RVUMPQ2VKNew/VVO0fLwTGAXkNI+TM+4OdeLiYr51OSY6vsHNXb030MVy9ZI8bsELX4uHyphtiIw3g==" crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.9.6/plugin/timezone.min.js" integrity="sha512-c/OdxdorFhLdlutQgC1m6enucrygqZ5Sq6nho3MWQ8jHadejJgkmBlRQXM6V2TNnfPqmJ6Hnl5+TvAosxqV4IA==" crossorigin="anonymous"></script>
-	
+
     <script type="text/javascript">
         dayjs.extend(dayjs_plugin_relativeTime)
         dayjs.extend(dayjs_plugin_utc)
@@ -189,7 +187,7 @@
 </head>
 
 <body>
-<div id="body" class="container-fluid">
+<div class="container-fluid">
     <div class="row">
         <div class="col-sm">
             <p style="font-size: 1.4rem;">

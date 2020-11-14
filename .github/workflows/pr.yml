@@ -26,7 +26,7 @@ jobs:
     - name: Check for changed static files
       run: |
         for changed_file in ${{ steps.files.outputs.modified }}; do
-          if [[ "${changed_file}" =~ ^(battleground-state-changes.csv|battleground-state-changes.html|battleground-state-changes.txt|notification-updates.json)$ ]]; then
+          if [[ "${changed_file}" =~ ^((all|battleground)-state-changes.csv|(all|battleground)-state-changes.html|(all|battleground)-state-changes.txt|(all|battleground)-state-changes.xml|notification-updates.json)$ ]]; then
             echo "Modifications to static files are not allowed."
             exit 1
           fi
@@ -34,11 +34,27 @@ jobs:
 
     - name: Generate battleground-state-changes.txt/html
       run: |-
-        ./print-battleground-state-changes > tmp
-        mv tmp battleground-state-changes.txt
+        ./print-battleground-state-changes
     - name: Upload test artifacts
       uses: actions/upload-artifact@v2
       with:
-        name: battleground-state-changes
+        name: "state-changes"
         path: |
           battleground-state-changes.*
+          all-state-changes.*
+
+    - name: Generate screenshots
+      run: |-
+        sudo apt-get install libwebkit2gtk-4.0-37 libgles2 gstreamer1.0-libav libgstreamer-plugins-bad1.0-0 xvfb
+        npm install --prefix .github/screenshot
+        npm start --prefix .github/screenshot
+        # WebKit doesn't work properly in headless mode, use an Xvfb server
+        PUPPETEER_PRODUCT=webkit xvfb-run npm start --prefix .github/screenshot
+        PUPPETEER_PRODUCT=firefox npm install --prefix .github/screenshot puppeteer
+        PUPPETEER_PRODUCT=firefox npm start --prefix .github/screenshot
+    - name: Upload screenshots
+      uses: actions/upload-artifact@v2
+      with:
+        name: screenshots
+        path: |
+          screenshot-*.png
