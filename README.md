@@ -6,18 +6,27 @@ Scrapes the NYT Votes Remaining Page JSON and commits it back to this repo. The 
 - <https://thinkbig-company.github.io/nyt-2020-election-scraper/battleground-state-changes.html>
 - <https://github.com/ThinkBIG-Company/nyt-2020-election-scraper/blob/master/battleground-state-changes.txt>
 - <https://thinkbig-company.github.io/nyt-2020-election-scraper/battleground-state-changes.csv>
-
+- <https://thinkbig-company.github.io/nyt-2020-election-scraper/battleground-state-changes.xml>
 
 ## Inspired By
-Simon Willison: https://simonwillison.net/2020/Oct/9/git-scraping/
+Simon Willison: <https://simonwillison.net/2020/Oct/9/git-scraping/>
 
 
 
 ## Development
 
-Contributions are welcome, but please make sure you read and fill out the [the pull request template](.github/pull_request_template.md) when submitting your changes. We would also appreciate it if you could read the short [contributing guide](https://github.com/ThinkBIG-Company/nyt-2020-election-scraper/blob/master/CONTRIBUTING.md).
+Dependencies
 
-Please do not modify any of the static files (html, csv, or txt). These files are dynamically generated.
+* Python 3 is required
+
+
+```
+pip install -r requirements.txt
+ ```
+
+Contributions are welcome, but please make sure you read and fill out the [the pull request template](.github/pull_request_template.md) when submitting your changes. We would also appreciate it if you could read the short [contributing guide](https://github.com/alex/nyt-2020-election-scraper/blob/master/CONTRIBUTING.md).
+
+Please do not modify any of the static files (html, csv, txt, or xml). These files are dynamically generated.
 
 ## To Support The Creators
-We'd rather any money go to a good cause. Send any donations instead to https://voting.works!
+We'd rather any money go to a good cause. Send any donations instead to <https://voting.works>!
