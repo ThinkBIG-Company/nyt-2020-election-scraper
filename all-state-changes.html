@@ -21,8 +21,7 @@
     <link rel="alternate" type="application/rss+xml" title="ANN Election Data RSS Feed" href="/nyt-2020-election-scraper/battleground-state-changes.xml" />
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
-        integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/css/bootstrap.min.css" integrity="sha512-oc9+XSs1H243/FRN9Rw62Fn8EtxjEYWHXRvjS43YtueEewbS6ObfXcJNyohjHqVKFPoXXUxwc+q1K7Dee6vv9g==" crossorigin="anonymous" />
     <style>
     .table-responsive.table-responsive {
       overflow-x: unset;
@@ -135,22 +134,14 @@
     </style>
     <title>Election 2020 Results</title>
 
-    <script src="https://cdn.jsdelivr.net/npm/dayjs@1.9.5/dayjs.min.js"
-            integrity="sha384-I8UysxWXKTbAFvVRecMrWcGRGR4RDZ7mOuoWjMA84MWM0OQ+4IriYjgc2+hHzEo8"
-            crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/dayjs@1.9.5/plugin/utc.js"
-            integrity="sha384-PcsSBVvWDlTmn0uPlrBbd/cUxDra/qov78qWgB2Qh6TwCiXAyuJQerEmS4PoVaRQ"
-            crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/dayjs@1.9.5/plugin/relativeTime.js"
-            integrity="sha384-Dy9nN0yYkuj/yhJJITfTyN7H84joqwvGkDsyXr+JavETPnhOzTe48kfPQEI1ee0Q"
-            crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/dayjs@1.9.5/plugin/advancedFormat.js"
-            integrity="sha384-y6wn9TDoovj2ZC4/cCf+qm4Kxiha/hhqfOb/L5RThIKLYDrhcLLfTSPyyHLMM9kF"
-            crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/dayjs@1.9.5/plugin/timezone.js"
-            integrity="sha384-ABtdoJNGKT1efF9sGomlK3/sBQIhkJb0H32JGT5/7DP8H5kKBMS5mwMLu0SExhQH"
-            crossorigin="anonymous"></script>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js" integrity="sha512-/DXTXr6nQodMUiq+IUJYCt2PPOUjrHJ9wFrqpJ3XkgPNOZVfMok7cRw6CSxyCQxXn6ozlESsSh1/sMCTF1rL/g==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/js/bootstrap.bundle.min.js" integrity="sha512-iceXjjbmB2rwoX93Ka6HAHP+B76IY1z0o3h+N1PeDtRSsyeetU3/0QKJqGyPJcX63zysNehggFwMC/bi7dvMig==" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.9.5/dayjs.min.js" integrity="sha512-C2m821NxMpJ4Df47O4P/17VPqt0yiK10UmGl59/e5ynRRYiCSBvy0KHJjhp2XIjUJreuR+y3SIhVyiVilhCmcQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.9.5/plugin/utc.min.js" integrity="sha512-aU7mUs3uE+MWJv+ihaotHKxd2z1kdCV4EhMlfXKSLVZ0GUJRmH/6EWAHzLSqNeL90lxGWbQczw7qyxLTfDwGbg==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.9.5/plugin/relativeTime.min.js" integrity="sha512-ZpD5q39qjKdG3a3p8cttXCwl9C7InezFKiIVFaxmethhYdzvYTMxJuqqg3I0WmI5D7G4Qt0HiYfXjagboH8/jQ==" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.9.6/plugin/advancedFormat.min.js" integrity="sha512-Ns942wI9RVUMPQ2VKNew/VVO0fLwTGAXkNI+TM+4OdeLiYr51OSY6vsHNXb030MVy9ZI8bsELX4uHyphtiIw3g==" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.9.6/plugin/timezone.min.js" integrity="sha512-c/OdxdorFhLdlutQgC1m6enucrygqZ5Sq6nho3MWQ8jHadejJgkmBlRQXM6V2TNnfPqmJ6Hnl5+TvAosxqV4IA==" crossorigin="anonymous"></script>
+	
     <script type="text/javascript">
         dayjs.extend(dayjs_plugin_relativeTime)
         dayjs.extend(dayjs_plugin_utc)
@@ -169,7 +160,7 @@
                     timestamp = node.innerHTML;
                     node.setAttribute('data-timestamp', timestamp);
                 }
-                node.innerHTML = `<abbr class='pretty-timestamp' title='${localTime(timestamp)}'>${prettyTime(timestamp)}</abbr>`;
+                node.innerHTML = `<abbr class='pretty-timestamp' data-toggle='tooltip' title='${localTime(timestamp)}' time='${localTime(timestamp)}'>${prettyTime(timestamp)}</abbr>`;
             }
         };
 
@@ -205,9 +196,12 @@
         <div class="col-sm">
             <p style="font-size: 1.4rem;">
                 All data below is sourced from an unofficial API powering the New York Times’ election site.
-                <strong>The estimated votes remaining and county-level breakdown values might be off</strong>.
+				<br>
+                <strong>The estimated votes remaining and county-level breakdown values might be off!!!</strong>
+				<br>
                 Consult state websites and officials for the most accurate and up-to-date figures.
-                This website is <a href="https://github.com/alex/nyt-2020-election-scraper">open source</a> and was written by <a href="https://github.com/alex/nyt-2020-election-scraper/graphs/contributors">these people</a>.
+				<br>
+                This website is <a href="https://github.com/thinkbig-company/nyt-2020-election-scraper">open source</a> and was written by <a href="https://github.com/thinkbig-company/nyt-2020-election-scraper/graphs/contributors">these people</a>.
             </p>
             <p>View <a href="battleground-state-changes.html">battleground states only</a>.</p>
         </div>
