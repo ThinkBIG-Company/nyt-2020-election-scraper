@@ -1,5 +1,5 @@
 ---------------------------------  --------------------------------------------------------------------------------
-Last updated:                      2020-11-15 17:00 UTC
+Last updated:                      2020-11-15 17:16 UTC
 Latest batch received: (Virginia)  2020-11-15 16:27 UTC
 Prettier web version:              https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ---------------------------------  --------------------------------------------------------------------------------
@@ -2540,7 +2540,7 @@ Vermont (EV: 3) Total Votes: (Biden: 242,841, Trump: 112,591)
 
 Virginia (EV: 13) Total Votes: (Biden: 2,413,328, Trump: 1,962,703)
 ----------------  ---  ----------------  --------------------  --------------------------  ----------------  -------------------  ----------------
-2020-11-15 16:36  ***  Biden up 450,625  Left (est.): 136,660  Δ:       6 (Biden +133.3%)  95.51% precincts  Trump needs 217.38%  & trends  25.40%
+2020-11-15 16:36  ---  Biden up 450,625  Left (est.): 136,660  Δ:       6 (Biden +133.3%)  95.51% precincts  Trump needs 217.38%  & trends  25.40%
 2020-11-14 16:41  ---  Biden up 450,609  Left (est.): 136,666  Δ:       0 (n/a)            95.55% precincts  Trump needs 217.37%  & trends  25.42%
 2020-11-12 23:33  ---  Biden up 450,609  Left (est.): 136,666  Δ:      20 (Trump +55.0%)   95.47% precincts  Trump needs 217.37%  & trends  25.42%
 2020-11-12 21:41  ---  Biden up 450,631  Left (est.): 136,685  Δ: Unknown (Biden +25.0%)   95.47% precincts  Trump needs 217.35%  & trends  25.37%
