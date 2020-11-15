@@ -1,8 +1,8 @@
------------------------------------  --------------------------------------------------------------------------------
-Last updated:                        2020-11-15 02:56 UTC
-Latest batch received: (California)  2020-11-15 01:35 UTC
-Prettier web version:                https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
------------------------------------  --------------------------------------------------------------------------------
+----------------------  --------------------------------------------------------------------------------
+Last updated:           2020-11-15 03:13 UTC
+Latest batch received:  2020-11-15 01:35 UTC
+Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+----------------------  --------------------------------------------------------------------------------
 
 Alabama (EV: 9) Total Votes: (Trump: 1,434,159, Biden: 843,473)
 ----------------  ---  ----------------  -------------------  ---------------------------  ----------------  --------------------  ----------------
@@ -174,7 +174,7 @@ Arkansas (EV: 6) Total Votes: (Trump: 758,183, Biden: 419,258)
 
 California (EV: 55) Total Votes: (Biden: 10,760,110, Trump: 5,750,654)
 ----------------  ---  ------------------  ----------------------  ---------------------------  ----------------  -------------------  ----------------
-2020-11-15 02:37  ***  Biden up 5,009,456  Unknown                 Δ:  49,241 (Biden + 2.7%)    98.65% precincts  Unknown              & trends  47.34%
+2020-11-15 02:37  ---  Biden up 5,009,456  Unknown                 Δ:  49,241 (Biden + 2.7%)    98.65% precincts  Unknown              & trends  47.34%
 2020-11-14 16:41  ---  Biden up 5,006,839  Unknown                 Δ:       0 (n/a)             98.46% precincts  Unknown              & trends  41.45%
 2020-11-14 15:36  ---  Biden up 5,006,839  Unknown                 Δ: 497,059 (Biden + 8.6%)    98.45% precincts  Unknown              & trends  41.45%
 2020-11-14 02:45  ---  Biden up 4,921,826  Unknown                 Δ:       0 (n/a)             95.88% precincts  Unknown              & trends  48.06%
