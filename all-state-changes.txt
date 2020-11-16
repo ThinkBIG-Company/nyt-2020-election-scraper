@@ -1,8 +1,8 @@
-----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-16 14:45 UTC
-Latest batch received:  2020-11-16 00:43 UTC
-Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
-----------------------  --------------------------------------------------------------------------------
+---------------------------------  --------------------------------------------------------------------------------
+Last updated:                      2020-11-16 14:53 UTC
+Latest batch received: (Illinois)  2020-11-16 00:43 UTC
+Prettier web version:              https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+---------------------------------  --------------------------------------------------------------------------------
 
 Alabama (EV: 9) Total Votes: (Trump: 1,434,159, Biden: 843,473)
 ----------------  ---  ----------------  -------------------  ---------------------------  ----------------  --------------------  ----------------
@@ -732,6 +732,7 @@ Idaho (EV: 4) Total Votes: (Trump: 554,128, Biden: 287,031)
 
 Illinois (EV: 20) Total Votes: (Biden: 3,401,327, Trump: 2,421,713)
 ----------------  ---  ----------------  ----------------------  -------------------------  ----------------  -------------------  ----------------
+2020-11-16 14:51  ***  Biden up 979,614  Left (est.): 96,313     Δ:       0 (n/a)           89.50% precincts  Trump needs 568.81%  & trends  22.55%
 2020-11-16 14:35  ***  Biden up 979,614  Left (est.): 96,359     Δ:   3,771 (Biden +27.0%)  89.50% precincts  Trump needs 568.56%  & trends  22.55%
 2020-11-14 03:28  ---  Biden up 977,577  Left (est.): 100,211    Δ:  61,161 (Biden +27.5%)  89.45% precincts  Trump needs 547.59%  & trends  22.48%
 2020-11-12 16:27  ---  Biden up 943,916  Left (est.): 162,666    Δ:     106 (Biden +19.8%)  89.45% precincts  Trump needs 345.99%  & trends  32.11%
@@ -1552,7 +1553,7 @@ Minnesota (EV: 10) Total Votes: (Biden: 1,716,312, Trump: 1,483,750)
 
 Mississippi (EV: 6) Total Votes: (Trump: 731,049, Biden: 491,223)
 ----------------  ---  ----------------  --------------------  -------------------------  ----------------  -------------------  ----------------
-2020-11-16 14:17  ***  Trump up 239,826  Left (est.): 51,491   Δ: Unknown (Biden +50.0%)  99.94% precincts  Biden needs 286.40%  & trends  46.38%
+2020-11-16 14:17  ---  Trump up 239,826  Left (est.): 51,491   Δ: Unknown (Biden +50.0%)  99.94% precincts  Biden needs 286.40%  & trends  46.38%
 2020-11-15 04:33  ---  Trump up 239,825  Left (est.): 51,490   Δ:      86 (Trump + 7.0%)  99.94% precincts  Biden needs 286.41%  & trends  46.38%
 2020-11-15 04:27  ---  Trump up 239,813  Left (est.): 51,577   Δ:     391 (Trump + 4.2%)  99.94% precincts  Biden needs 285.99%  & trends  46.35%
 2020-11-15 04:01  ---  Trump up 239,780  Left (est.): 52,004   Δ:   1,034 (Trump +23.6%)  99.94% precincts  Biden needs 284.03%  & trends  46.16%
