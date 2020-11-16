@@ -1,5 +1,5 @@
 ------------------------------------------------------  --------------------------------------------------------------------------------
-Last updated:                                           2020-11-16 20:17 UTC
+Last updated:                                           2020-11-16 20:26 UTC
 Latest batch received: (New York, Pennsylvania, Texas)  2020-11-16 20:15 UTC
 Prettier web version:                                   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ------------------------------------------------------  --------------------------------------------------------------------------------
@@ -2828,7 +2828,7 @@ West Virginia (EV: 5) Total Votes: (Trump: 544,826, Biden: 235,657)
 Wisconsin (EV: 10) Total Votes: (Biden: 1,630,680, Trump: 1,610,137)
 ----------------  ---  ---------------  ----------------  -------------------------  -----------------  ---------------------  ----------------
 2020-11-16 19:58  ***  Biden up 20,543  Unknown           Δ:      77 (Biden +11.0%)  100.00% precincts  Unknown                & trends  65.73%
-2020-11-16 19:50  ***  Biden up 20,526  Unknown           Δ:      29 (Trump +36.2%)  100.00% precincts  Unknown                & trends  67.55%
+2020-11-16 19:50  ---  Biden up 20,526  Unknown           Δ:      29 (Trump +36.2%)  100.00% precincts  Unknown                & trends  67.55%
 2020-11-16 19:42  ---  Biden up 20,547  Unknown           Δ:       1 (Biden +50.0%)  100.00% precincts  Unknown                & trends  67.06%
 2020-11-16 19:33  ---  Biden up 20,546  Unknown           Δ: Unknown (Trump +50.0%)  100.00% precincts  Unknown                & trends  67.09%
 2020-11-16 19:24  ---  Biden up 20,545  Left (est.): 11   Δ:      36 (Biden +25.0%)  100.00% precincts  Trump needs 95061.80%  & trends  67.12%
