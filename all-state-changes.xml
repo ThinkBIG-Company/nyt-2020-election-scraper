@@ -4,7 +4,7 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Tue, 17 Nov 2020 21:42:40 -0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2020 21:57:58 -0000</lastBuildDate>
   <item>
    <description>Alaska (EV: 3): Trump +35507</description>
    <pubDate>Mon, 16 Nov 2020 17:17:12 -0000</pubDate>
@@ -196,9 +196,9 @@
    <guid isPermaLink="false">oregon@1605579312.685</guid>
   </item>
   <item>
-   <description>Pennsylvania (EV: 20): Biden +73459</description>
-   <pubDate>Tue, 17 Nov 2020 21:42:40 -0000</pubDate>
-   <guid isPermaLink="false">pennsylvania@1605649360.01</guid>
+   <description>Pennsylvania (EV: 20): Biden +73471</description>
+   <pubDate>Tue, 17 Nov 2020 21:57:58 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1605650278.676</guid>
   </item>
   <item>
    <description>Rhode Island (EV: 4): Biden +106362</description>
