@@ -1,8 +1,8 @@
------------------------------  --------------------------------------------------------------------------------
-Last updated:                  2020-11-18 23:24 UTC
-Latest batch received: (Ohio)  2020-11-18 21:02 UTC
-Prettier web version:          https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
------------------------------  --------------------------------------------------------------------------------
+-----------------------------------  --------------------------------------------------------------------------------
+Last updated:                        2020-11-18 23:32 UTC
+Latest batch received: (Washington)  2020-11-18 21:02 UTC
+Prettier web version:                https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+-----------------------------------  --------------------------------------------------------------------------------
 
 Alabama (EV: 9) Total Votes: (Trump: 1,434,159, Biden: 843,473)
 ----------------  ---  ----------------  -------------------  ---------------------------  ----------------  --------------------  ----------------
@@ -2868,6 +2868,7 @@ Virginia (EV: 13) Total Votes: (Biden: 2,413,973, Trump: 1,962,571)
 
 Washington (EV: 12) Total Votes: (Biden: 2,361,652, Trump: 1,577,669)
 ----------------  ---  ----------------  --------------------  -------------------------  -----------------  --------------------  ----------------
+2020-11-18 23:31  ***  Biden up 783,983  Unknown               Δ:       0 (n/a)           100.00% precincts  Unknown               & trends  51.19%
 2020-11-18 22:22  ---  Biden up 783,983  Unknown               Δ:      93 (Trump + 1.6%)  100.00% precincts  Unknown               & trends  51.19%
 2020-11-18 01:12  ---  Biden up 783,986  Unknown               Δ:   1,108 (Biden +10.3%)  100.00% precincts  Unknown               & trends  51.17%
 2020-11-18 00:32  ---  Biden up 783,758  Unknown               Δ:      57 (Trump + 6.1%)  100.00% precincts  Unknown               & trends  51.33%
