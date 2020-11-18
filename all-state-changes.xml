@@ -4,7 +4,7 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Wed, 18 Nov 2020 20:03:04 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2020 21:02:08 -0000</lastBuildDate>
   <item>
    <description>Alaska (EV: 3): Trump +35507</description>
    <pubDate>Wed, 18 Nov 2020 17:25:33 -0000</pubDate>
@@ -181,9 +181,9 @@
    <guid isPermaLink="false">new-york@1605721413.777</guid>
   </item>
   <item>
-   <description>Ohio (EV: 18): Trump +461676</description>
-   <pubDate>Wed, 18 Nov 2020 19:50:42 -0000</pubDate>
-   <guid isPermaLink="false">ohio@1605729042.88</guid>
+   <description>Ohio (EV: 18): Trump +461153</description>
+   <pubDate>Wed, 18 Nov 2020 21:02:08 -0000</pubDate>
+   <guid isPermaLink="false">ohio@1605733328.65</guid>
   </item>
   <item>
    <description>Oklahoma (EV: 7): Trump +516390</description>
@@ -196,9 +196,9 @@
    <guid isPermaLink="false">oregon@1605729784.628</guid>
   </item>
   <item>
-   <description>Pennsylvania (EV: 20): Biden +82235</description>
-   <pubDate>Wed, 18 Nov 2020 20:03:04 -0000</pubDate>
-   <guid isPermaLink="false">pennsylvania@1605729784.628</guid>
+   <description>Pennsylvania (EV: 20): Biden +81811</description>
+   <pubDate>Wed, 18 Nov 2020 21:02:08 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1605733328.65</guid>
   </item>
   <item>
    <description>Rhode Island (EV: 4): Biden +106362</description>
