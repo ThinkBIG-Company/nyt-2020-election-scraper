@@ -1,11 +1,12 @@
----------------------------------  --------------------------------------------------------------------------------
-Last updated:                      2020-11-23 19:35 UTC
-Latest batch received: (Arkansas)  2020-11-23 19:15 UTC
-Prettier web version:              https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
----------------------------------  --------------------------------------------------------------------------------
+--------------------------------  --------------------------------------------------------------------------------
+Last updated:                     2020-11-23 19:43 UTC
+Latest batch received: (Alabama)  2020-11-23 19:15 UTC
+Prettier web version:             https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+--------------------------------  --------------------------------------------------------------------------------
 
-Alabama (EV: 9) Total Votes: (Trump: 1,434,159, Biden: 843,473)
+Alabama (EV: 9) Total Votes: (Trump: 1,434,739, Biden: 843,804)
 ----------------  ---  ----------------  -------------------  ---------------------------  ----------------  --------------------  ----------------
+2020-11-23 19:42  ***  Trump up 590,935  Unknown              Δ:     911 (Trump +13.7%)    95.31% precincts  Unknown               & trends  44.43%
 2020-11-11 03:16  ---  Trump up 590,686  Unknown              Δ:       0 (n/a)             95.22% precincts  Unknown               & trends  44.86%
 2020-11-06 22:29  ---  Trump up 590,686  Unknown              Δ:  12,548 (Biden +21.4%)    95.17% precincts  Unknown               & trends  44.86%
 2020-11-06 18:43  ---  Trump up 596,046  Unknown              Δ: Unknown (Biden +55.9%)    94.83% precincts  Unknown               & trends  49.11%
