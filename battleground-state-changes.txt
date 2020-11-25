@@ -1,5 +1,5 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-25 01:34 UTC
+Last updated:           2020-11-25 01:47 UTC
 Latest batch received:  2020-11-25 01:08 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
@@ -464,7 +464,7 @@ North Carolina (EV: 15) Total Votes: (Trump: 2,758,775, Biden: 2,684,302)
 
 Pennsylvania (EV: 20) Total Votes: (Biden: 3,458,229, Trump: 3,377,674)
 ----------------  ---  ----------------  ----------------------  -------------------------  ----------------  -------------------  ----------------
-2020-11-25 01:08  ***  Biden up 80,555   Unknown                 Δ:       0 (n/a)           98.31% precincts  Unknown              & trends  51.86%
+2020-11-25 01:08  ---  Biden up 80,555   Unknown                 Δ:       0 (n/a)           98.31% precincts  Unknown              & trends  51.86%
 2020-11-25 00:25  ---  Biden up 80,555   Unknown                 Δ: Unknown (Biden +10.2%)  98.31% precincts  Unknown              & trends  51.20%
 2020-11-24 23:54  ---  Biden up 80,802   Unknown                 Δ: Unknown (Biden +14.5%)  98.31% precincts  Unknown              & trends  51.83%
 2020-11-24 23:44  ---  Biden up 80,975   Unknown                 Δ: Unknown (Biden + 6.6%)  98.31% precincts  Unknown              & trends  51.91%
