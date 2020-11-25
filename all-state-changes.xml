@@ -4,7 +4,7 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Tue, 24 Nov 2020 23:54:13 -0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2020 00:25:13 -0000</lastBuildDate>
   <item>
    <description>Alaska (EV: 3): Trump +35906</description>
    <pubDate>Tue, 24 Nov 2020 13:26:23 -0000</pubDate>
@@ -111,9 +111,9 @@
    <guid isPermaLink="false">maryland@1606246525.259</guid>
   </item>
   <item>
-   <description>Maine (EV: 4): Biden +72752</description>
-   <pubDate>Tue, 24 Nov 2020 23:25:15 -0000</pubDate>
-   <guid isPermaLink="false">maine@1606260315.01</guid>
+   <description>Maine (EV: 4): Biden +70638</description>
+   <pubDate>Wed, 25 Nov 2020 00:25:13 -0000</pubDate>
+   <guid isPermaLink="false">maine@1606263913.83</guid>
   </item>
   <item>
    <description>Michigan (EV: 16): Biden +154188</description>
@@ -196,9 +196,9 @@
    <guid isPermaLink="false">oregon@1606249103.182</guid>
   </item>
   <item>
-   <description>Pennsylvania (EV: 20): Biden +80802</description>
-   <pubDate>Tue, 24 Nov 2020 23:54:13 -0000</pubDate>
-   <guid isPermaLink="false">pennsylvania@1606262053.223</guid>
+   <description>Pennsylvania (EV: 20): Biden +80555</description>
+   <pubDate>Wed, 25 Nov 2020 00:25:13 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1606263913.83</guid>
   </item>
   <item>
    <description>Rhode Island (EV: 4): Biden +106373</description>
