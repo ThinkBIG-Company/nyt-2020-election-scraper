@@ -1,5 +1,5 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-26 15:51 UTC
+Last updated:           2020-11-26 15:59 UTC
 Latest batch received:  2020-11-25 21:55 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
@@ -942,7 +942,7 @@ Illinois (EV: 20) Total Votes: (Biden: 3,460,611, Trump: 2,437,755)
 
 Indiana (EV: 11) Total Votes: (Trump: 1,729,852, Biden: 1,242,495)
 ----------------  ---  ----------------  --------------------  --------------------------  -----------------  -----------------------  ----------------
-2020-11-26 15:30  ***  Trump up 487,357  Left (est.): 1,446    Δ:     149 (Biden + 5.7%)   100.00% precincts  Biden needs 17246.90%    & trends  64.26%
+2020-11-26 15:30  ---  Trump up 487,357  Left (est.): 1,446    Δ:     149 (Biden + 5.7%)   100.00% precincts  Biden needs 17246.90%    & trends  64.26%
 2020-11-26 15:19  ---  Trump up 487,374  Left (est.): 1,025    Δ:     891 (Biden +18.7%)   99.30% precincts   Biden needs 24311.06%    & trends  64.33%
 2020-11-26 14:56  ---  Trump up 487,707  Unknown               Δ:      82 (Trump +14.6%)   98.21% precincts   Unknown                  & trends  64.35%
 2020-11-26 14:48  ---  Trump up 487,683  Unknown               Δ:       4 (Trump +125.0%)  98.03% precincts   Unknown                  & trends  64.44%
