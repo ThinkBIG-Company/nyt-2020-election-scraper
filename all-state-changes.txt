@@ -1,5 +1,5 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-27 22:48 UTC
+Last updated:           2020-11-27 22:56 UTC
 Latest batch received:  2020-11-27 21:31 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
@@ -2448,7 +2448,7 @@ North Dakota (EV: 3) Total Votes: (Trump: 235,595, Biden: 114,902)
 
 Ohio (EV: 18) Total Votes: (Trump: 3,154,834, Biden: 2,679,165)
 ----------------  ---  ----------------  --------------------  -------------------------  ----------------  ---------------------  ----------------
-2020-11-27 22:21  ***  Trump up 475,669  Unknown               Δ:     488 (Trump +34.8%)  99.89% precincts  Unknown                & trends  35.32%
+2020-11-27 22:21  ---  Trump up 475,669  Unknown               Δ:     488 (Trump +34.8%)  99.89% precincts  Unknown                & trends  35.32%
 2020-11-27 21:53  ---  Trump up 475,329  Unknown               Δ:       0 (n/a)           99.36% precincts  Unknown                & trends  36.07%
 2020-11-27 21:48  ---  Trump up 475,329  Unknown               Δ:   1,674 (Trump +14.8%)  98.80% precincts  Unknown                & trends  36.07%
 2020-11-27 21:40  ---  Trump up 474,835  Unknown               Δ:       0 (n/a)           97.63% precincts  Unknown                & trends  37.54%
