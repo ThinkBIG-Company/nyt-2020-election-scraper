@@ -1,8 +1,8 @@
-----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-30 21:59 UTC
-Latest batch received:  2020-11-30 21:21 UTC
-Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
-----------------------  --------------------------------------------------------------------------------
+------------------------------------  --------------------------------------------------------------------------------
+Last updated:                         2020-11-30 22:25 UTC
+Latest batch received: (Connecticut)  2020-11-30 21:21 UTC
+Prettier web version:                 https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+------------------------------------  --------------------------------------------------------------------------------
 
 Alabama (EV: 9) Total Votes: (Trump: 1,441,170, Biden: 849,624)
 ----------------  ---  ----------------  -------------------  ---------------------------  -----------------  -----------------------  ----------------
@@ -434,6 +434,7 @@ Colorado (EV: 9) Total Votes: (Biden: 1,804,196, Trump: 1,364,471)
 
 Connecticut (EV: 7) Total Votes: (Biden: 1,080,680, Trump: 715,291)
 ----------------  ---  ----------------  --------------------  --------------------------  ----------------  ---------------------  ----------------
+2020-11-30 22:24  ***  Biden up 365,389  Unknown               Δ:       0 (n/a)            99.20% precincts  Unknown                & trends  36.60%
 2020-11-25 02:59  ---  Biden up 365,389  Unknown               Δ: Unknown (Biden +50.0%)   98.27% precincts  Unknown                & trends  36.60%
 2020-11-25 02:53  ---  Biden up 365,390  Unknown               Δ:   1,875 (Biden +20.3%)   98.27% precincts  Unknown                & trends  36.60%
 2020-11-25 02:45  ---  Biden up 364,629  Left (est.): 1,751    Δ: Unknown (Trump +19.4%)   98.14% precincts  Trump needs 10626.36%  & trends  38.42%
