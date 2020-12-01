@@ -1,5 +1,5 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-12-01 17:19 UTC
+Last updated:           2020-12-01 17:32 UTC
 Latest batch received:  2020-12-01 16:56 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
@@ -2572,7 +2572,7 @@ Oregon (EV: 7) Total Votes: (Biden: 1,340,291, Trump: 958,410)
 
 Pennsylvania (EV: 20) Total Votes: (Biden: 3,459,986, Trump: 3,378,344)
 ----------------  ---  ----------------  ----------------------  -------------------------  -----------------  -------------------  ----------------
-2020-12-01 16:56  ***  Biden up 81,642   Unknown                 Δ:     144 (Trump + 6.2%)  100.00% precincts  Unknown              & trends  50.09%
+2020-12-01 16:56  ---  Biden up 81,642   Unknown                 Δ:     144 (Trump + 6.2%)  100.00% precincts  Unknown              & trends  50.09%
 2020-11-28 05:00  ---  Biden up 81,660   Unknown                 Δ:       0 (n/a)           100.00% precincts  Unknown              & trends  50.08%
 2020-11-28 04:54  ---  Biden up 81,660   Unknown                 Δ:       0 (n/a)           99.26% precincts   Unknown              & trends  50.08%
 2020-11-25 21:55  ---  Biden up 81,660   Unknown                 Δ:   2,283 (Biden +24.2%)  98.36% precincts   Unknown              & trends  50.08%
