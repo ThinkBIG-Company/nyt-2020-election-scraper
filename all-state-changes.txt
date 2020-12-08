@@ -1,5 +1,5 @@
 ---------------------------------  --------------------------------------------------------------------------------
-Last updated:                      2020-12-08 02:04 UTC
+Last updated:                      2020-12-08 02:32 UTC
 Latest batch received: (Maryland)  2020-12-07 20:22 UTC
 Prettier web version:              https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ---------------------------------  --------------------------------------------------------------------------------
@@ -1422,7 +1422,7 @@ Maine (EV: 4) Total Votes: (Biden: 435,072, Trump: 360,737)
 
 Maryland (EV: 10) Total Votes: (Biden: 1,985,023, Trump: 976,414)
 ----------------  ---  ------------------  --------------------  -------------------------  ----------------  ---------------------  ----------------
-2020-12-08 02:02  ***  Biden up 1,008,609  Unknown               Δ:       0 (n/a)           96.58% precincts  Unknown                & trends  20.08%
+2020-12-08 02:02  ---  Biden up 1,008,609  Unknown               Δ:       0 (n/a)           96.58% precincts  Unknown                & trends  20.08%
 2020-11-24 19:35  ---  Biden up 1,008,609  Unknown               Δ:   8,835 (Biden +29.5%)  96.58% precincts  Unknown                & trends  20.08%
 2020-11-24 13:26  ---  Biden up 1,003,390  Unknown               Δ:       0 (n/a)           96.38% precincts  Unknown                & trends  20.51%
 2020-11-23 20:17  ---  Biden up 1,003,390  Unknown               Δ:     591 (Biden +28.0%)  96.29% precincts  Unknown                & trends  20.51%
@@ -3583,7 +3583,7 @@ West Virginia (EV: 5) Total Votes: (Trump: 545,382, Biden: 235,984)
 
 Wisconsin (EV: 10) Total Votes: (Biden: 1,630,673, Trump: 1,610,065)
 ----------------  ---  ---------------  ----------------  -------------------------  -----------------  -----------------------  ----------------
-2020-12-08 01:42  ***  Biden up 20,608  Left (est.): 76   Δ: Unknown (Biden +11.9%)  100.00% precincts  Trump needs 13844.74%    & trends  63.89%
+2020-12-08 01:42  ---  Biden up 20,608  Left (est.): 76   Δ: Unknown (Biden +11.9%)  100.00% precincts  Trump needs 13844.74%    & trends  63.89%
 2020-12-04 00:26  ---  Biden up 20,682  Unknown           Δ:     183 (Biden +32.0%)  100.00% precincts  Unknown                  & trends  58.30%
 2020-11-17 18:25  ---  Biden up 20,565  Unknown           Δ: Unknown (Biden +50.0%)  100.00% precincts  Unknown                  & trends  64.22%
 2020-11-17 18:10  ---  Biden up 20,566  Left (est.): 1    Δ:       8 (Trump +25.0%)  100.00% precincts  Trump needs 1046313.86%  & trends  64.17%
