@@ -1,8 +1,8 @@
-----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-12-09 21:57 UTC
-Latest batch received:  2020-12-08 20:01 UTC
-Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
-----------------------  --------------------------------------------------------------------------------
+------------------------------  --------------------------------------------------------------------------------
+Last updated:                   2020-12-09 22:26 UTC
+Latest batch received: (Maine)  2020-12-08 20:01 UTC
+Prettier web version:           https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+------------------------------  --------------------------------------------------------------------------------
 
 Alabama (EV: 9) Total Votes: (Trump: 1,441,168, Biden: 849,648)
 ----------------  ---  ----------------  -------------------  ---------------------------  -----------------  -----------------------  ----------------
@@ -1321,6 +1321,7 @@ Louisiana (EV: 8) Total Votes: (Trump: 1,255,776, Biden: 856,034)
 
 Maine (EV: 4) Total Votes: (Biden: 435,072, Trump: 360,737)
 ----------------  ---  ---------------  --------------------  --------------------------  ----------------  --------------------  ----------------
+2020-12-09 22:21  ***  Biden up 74,335  Unknown               Δ:       0 (n/a)            99.64% precincts  Unknown               & trends  46.76%
 2020-12-04 22:27  ---  Biden up 74,335  Unknown               Δ:   5,467 (Biden +34.3%)   99.64% precincts  Unknown               & trends  46.76%
 2020-12-04 21:57  ---  Biden up 70,586  Left (est.): 4,506    Δ: Unknown (Biden +14.7%)   99.46% precincts  Trump needs 857.55%   & trends  55.55%
 2020-12-04 21:26  ---  Biden up 70,839  Left (est.): 3,587    Δ: Unknown (Biden +34.8%)   98.73% precincts  Trump needs 1068.08%  & trends  62.53%
