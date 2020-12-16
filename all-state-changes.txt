@@ -1,8 +1,8 @@
----------------------------------  --------------------------------------------------------------------------------
-Last updated:                      2020-12-16 21:55 UTC
-Latest batch received: (Illinois)  2020-12-08 20:01 UTC
-Prettier web version:              https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
----------------------------------  --------------------------------------------------------------------------------
+----------------------  --------------------------------------------------------------------------------
+Last updated:           2020-12-16 22:11 UTC
+Latest batch received:  2020-12-08 20:01 UTC
+Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+----------------------  --------------------------------------------------------------------------------
 
 Alabama (EV: 9) Total Votes: (Trump: 1,441,168, Biden: 849,648)
 ----------------  ---  ----------------  -------------------  ---------------------------  -----------------  -----------------------  ----------------
@@ -927,7 +927,7 @@ Idaho (EV: 4) Total Votes: (Trump: 554,118, Biden: 287,021)
 
 Illinois (EV: 20) Total Votes: (Biden: 3,471,915, Trump: 2,446,891)
 ----------------  ---  ------------------  ----------------------  --------------------------  ----------------  ---------------------  ----------------
-2020-12-16 21:41  ***  Biden up 1,025,024  Unknown                 Δ:       0 (n/a)            90.75% precincts  Unknown                & trends  37.65%
+2020-12-16 21:41  ---  Biden up 1,025,024  Unknown                 Δ:       0 (n/a)            90.75% precincts  Unknown                & trends  37.65%
 2020-12-08 15:57  ---  Biden up 1,025,024  Unknown                 Δ: Unknown (Biden +50.0%)   90.75% precincts  Unknown                & trends  37.69%
 2020-12-08 15:47  ---  Biden up 1,025,084  Unknown                 Δ:     453 (Biden +15.1%)   90.75% precincts  Unknown                & trends  37.65%
 2020-12-04 19:16  ---  Biden up 1,024,947  Unknown                 Δ:   4,747 (Biden + 2.2%)   90.75% precincts  Unknown                & trends  37.46%
